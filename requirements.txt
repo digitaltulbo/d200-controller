@@ -1,0 +1,14 @@
+# Lightroom Macro Panel (WebView Edition) - Required Python Packages
+# 설치: pip install -r requirements.txt
+
+# WebView GUI 프레임워크
+pywebview>=6.0.0
+
+# 키보드 입력 시뮬레이션
+keyboard>=0.13.5
+
+# 프로세스 관리
+psutil>=5.9.0
+
+# 사운드 재생
+pygame>=2.5.0
